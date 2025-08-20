@@ -1,0 +1,593 @@
+[
+  {
+    "InfoValue": "46241185-1",
+    "DocumentIds": [],
+    "CategoryResponse": []
+  },
+  {
+    "InfoValue": "60231998",
+    "DocumentIds": [
+      5670043,
+      5670044,
+      5670045,
+      5670046,
+      5670047,
+      5670295
+    ],
+    "CategoryResponse": [
+      {
+        "documentId": 5670043,
+        "documentCategoryIds": [
+          55422
+        ]
+      },
+      {
+        "documentId": 5670044,
+        "documentCategoryIds": [
+          55422
+        ]
+      },
+      {
+        "documentId": 5670045,
+        "documentCategoryIds": [
+          55422
+        ]
+      },
+      {
+        "documentId": 5670046,
+        "documentCategoryIds": [
+          55422
+        ]
+      },
+      {
+        "documentId": 5670047,
+        "documentCategoryIds": [
+          55422
+        ]
+      },
+      {
+        "documentId": 5670295,
+        "documentCategoryIds": [
+          56690
+        ]
+      }
+    ]
+  },
+  {
+    "InfoValue": "60233183",
+    "DocumentIds": [
+      7605083,
+      7605084,
+      7605085,
+      7605086,
+      7605087,
+      7605089,
+      7605090,
+      7605091
+    ],
+    "CategoryResponse": [
+      {
+        "documentId": 7605083,
+        "documentCategoryIds": [
+          55422
+        ]
+      },
+      {
+        "documentId": 7605084,
+        "documentCategoryIds": [
+          55422
+        ]
+      },
+      {
+        "documentId": 7605085,
+        "documentCategoryIds": [
+          55422
+        ]
+      },
+      {
+        "documentId": 7605086,
+        "documentCategoryIds": [
+          55422
+        ]
+      },
+      {
+        "documentId": 7605087,
+        "documentCategoryIds": [
+          55422
+        ]
+      },
+      {
+        "documentId": 7605089,
+        "documentCategoryIds": [
+          55422
+        ]
+      },
+      {
+        "documentId": 7605090,
+        "documentCategoryIds": [
+          55422,
+          56690
+        ]
+      },
+      {
+        "documentId": 7605091,
+        "documentCategoryIds": [
+          55422
+        ]
+      }
+    ]
+  },
+  {
+    "InfoValue": "60233455",
+    "DocumentIds": [
+      6712928
+    ],
+    "CategoryResponse": [
+      {
+        "documentId": 6712928,
+        "documentCategoryIds": [
+          55422,
+          56690
+        ]
+      }
+    ]
+  },
+  {
+    "InfoValue": "60233457",
+    "DocumentIds": [
+      6712929
+    ],
+    "CategoryResponse": [
+      {
+        "documentId": 6712929,
+        "documentCategoryIds": [
+          55422,
+          56690
+        ]
+      }
+    ]
+  },
+  {
+    "InfoValue": "60233458",
+    "DocumentIds": [
+      6712930
+    ],
+    "CategoryResponse": [
+      {
+        "documentId": 6712930,
+        "documentCategoryIds": [
+          55422,
+          56690,
+          57239
+        ]
+      }
+    ]
+  },
+  {
+    "InfoValue": "60233459",
+    "DocumentIds": [
+      6712931
+    ],
+    "CategoryResponse": [
+      {
+        "documentId": 6712931,
+        "documentCategoryIds": [
+          55422,
+          56690,
+          57239
+        ]
+      }
+    ]
+  },
+  {
+    "InfoValue": "60233460",
+    "DocumentIds": [],
+    "CategoryResponse": []
+  },
+  {
+    "InfoValue": "60233461",
+    "DocumentIds": [],
+    "CategoryResponse": []
+  },
+  {
+    "InfoValue": "60233462",
+    "DocumentIds": [
+      6712932
+    ],
+    "CategoryResponse": [
+      {
+        "documentId": 6712932,
+        "documentCategoryIds": [
+          55422,
+          56690
+        ]
+      }
+    ]
+  },
+  {
+    "InfoValue": "60233464",
+    "DocumentIds": [],
+    "CategoryResponse": []
+  },
+  {
+    "InfoValue": "60233465",
+    "DocumentIds": [
+      6712933
+    ],
+    "CategoryResponse": [
+      {
+        "documentId": 6712933,
+        "documentCategoryIds": [
+          55422,
+          56690,
+          57239
+        ]
+      }
+    ]
+  },
+  {
+    "InfoValue": "60233466",
+    "DocumentIds": [
+      6712934
+    ],
+    "CategoryResponse": [
+      {
+        "documentId": 6712934,
+        "documentCategoryIds": [
+          55422,
+          56690,
+          57239
+        ]
+      }
+    ]
+  },
+  {
+    "InfoValue": "60233467",
+    "DocumentIds": [
+      6712935
+    ],
+    "CategoryResponse": [
+      {
+        "documentId": 6712935,
+        "documentCategoryIds": [
+          55422,
+          56690,
+          57239
+        ]
+      }
+    ]
+  },
+  {
+    "InfoValue": "60233468",
+    "DocumentIds": [
+      6712936
+    ],
+    "CategoryResponse": [
+      {
+        "documentId": 6712936,
+        "documentCategoryIds": [
+          55422,
+          56690,
+          57239
+        ]
+      }
+    ]
+  },
+  {
+    "InfoValue": "60233469",
+    "DocumentIds": [
+      6712937
+    ],
+    "CategoryResponse": [
+      {
+        "documentId": 6712937,
+        "documentCategoryIds": [
+          55422,
+          56690,
+          57239
+        ]
+      }
+    ]
+  },
+  {
+    "InfoValue": "60234149",
+    "DocumentIds": [
+      7598640,
+      7598641,
+      7598642,
+      7598643,
+      7598644,
+      7598645
+    ],
+    "CategoryResponse": [
+      {
+        "documentId": 7598640,
+        "documentCategoryIds": [
+          55422
+        ]
+      },
+      {
+        "documentId": 7598641,
+        "documentCategoryIds": [
+          55422
+        ]
+      },
+      {
+        "documentId": 7598642,
+        "documentCategoryIds": [
+          55422
+        ]
+      },
+      {
+        "documentId": 7598643,
+        "documentCategoryIds": [
+          55422
+        ]
+      },
+      {
+        "documentId": 7598644,
+        "documentCategoryIds": [
+          55422
+        ]
+      },
+      {
+        "documentId": 7598645,
+        "documentCategoryIds": [
+          55422,
+          56690
+        ]
+      }
+    ]
+  },
+  {
+    "InfoValue": "60234151",
+    "DocumentIds": [
+      7598414,
+      7598415,
+      7598416,
+      7598417,
+      7598418,
+      7598419,
+      7598420,
+      7598421
+    ],
+    "CategoryResponse": [
+      {
+        "documentId": 7598414,
+        "documentCategoryIds": [
+          55422
+        ]
+      },
+      {
+        "documentId": 7598415,
+        "documentCategoryIds": [
+          55422,
+          56690
+        ]
+      },
+      {
+        "documentId": 7598416,
+        "documentCategoryIds": [
+          55422
+        ]
+      },
+      {
+        "documentId": 7598417,
+        "documentCategoryIds": [
+          55422
+        ]
+      },
+      {
+        "documentId": 7598418,
+        "documentCategoryIds": [
+          55422
+        ]
+      },
+      {
+        "documentId": 7598419,
+        "documentCategoryIds": [
+          55422
+        ]
+      },
+      {
+        "documentId": 7598420,
+        "documentCategoryIds": [
+          55422
+        ]
+      },
+      {
+        "documentId": 7598421,
+        "documentCategoryIds": [
+          55422
+        ]
+      }
+    ]
+  },
+  {
+    "InfoValue": "60234873",
+    "DocumentIds": [
+      7499111,
+      7499112,
+      7499113,
+      7499114,
+      7499115,
+      7499116,
+      7499117,
+      7499118,
+      7499119,
+      7499120,
+      7499121
+    ],
+    "CategoryResponse": [
+      {
+        "documentId": 7499111,
+        "documentCategoryIds": [
+          55422
+        ]
+      },
+      {
+        "documentId": 7499112,
+        "documentCategoryIds": [
+          55422
+        ]
+      },
+      {
+        "documentId": 7499113,
+        "documentCategoryIds": [
+          55422
+        ]
+      },
+      {
+        "documentId": 7499114,
+        "documentCategoryIds": [
+          55422
+        ]
+      },
+      {
+        "documentId": 7499115,
+        "documentCategoryIds": [
+          55422
+        ]
+      },
+      {
+        "documentId": 7499116,
+        "documentCategoryIds": [
+          56163,
+          57254
+        ]
+      },
+      {
+        "documentId": 7499117,
+        "documentCategoryIds": [
+          56163,
+          57254
+        ]
+      },
+      {
+        "documentId": 7499118,
+        "documentCategoryIds": [
+          55422,
+          56690
+        ]
+      },
+      {
+        "documentId": 7499119,
+        "documentCategoryIds": [
+          55422
+        ]
+      },
+      {
+        "documentId": 7499120,
+        "documentCategoryIds": [
+          55422
+        ]
+      },
+      {
+        "documentId": 7499121,
+        "documentCategoryIds": [
+          55422
+        ]
+      }
+    ]
+  },
+  {
+    "InfoValue": "60234874",
+    "DocumentIds": [
+      7499290,
+      7499292,
+      7499293,
+      7499294
+    ],
+    "CategoryResponse": [
+      {
+        "documentId": 7499290,
+        "documentCategoryIds": [
+          55422
+        ]
+      },
+      {
+        "documentId": 7499292,
+        "documentCategoryIds": [
+          55422,
+          56690
+        ]
+      },
+      {
+        "documentId": 7499293,
+        "documentCategoryIds": [
+          55422
+        ]
+      },
+      {
+        "documentId": 7499294,
+        "documentCategoryIds": [
+          55422
+        ]
+      }
+    ]
+  },
+  {
+    "InfoValue": "60234875",
+    "DocumentIds": [
+      7500681,
+      7500682,
+      7500683,
+      7500684,
+      7500686,
+      7500687,
+      7500690,
+      7500692
+    ],
+    "CategoryResponse": [
+      {
+        "documentId": 7500681,
+        "documentCategoryIds": [
+          55422
+        ]
+      },
+      {
+        "documentId": 7500682,
+        "documentCategoryIds": [
+          55422
+        ]
+      },
+      {
+        "documentId": 7500683,
+        "documentCategoryIds": [
+          55420
+        ]
+      },
+      {
+        "documentId": 7500684,
+        "documentCategoryIds": [
+          55422
+        ]
+      },
+      {
+        "documentId": 7500686,
+        "documentCategoryIds": [
+          55422
+        ]
+      },
+      {
+        "documentId": 7500687,
+        "documentCategoryIds": [
+          55422
+        ]
+      },
+      {
+        "documentId": 7500690,
+        "documentCategoryIds": [
+          55422
+        ]
+      },
+      {
+        "documentId": 7500692,
+        "documentCategoryIds": [
+          55422,
+          56690
+        ]
+      }
+    ]
+  }
+]

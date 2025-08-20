@@ -1,0 +1,4 @@
+hdbcli
+python-dotenv
+requests
+tzdata

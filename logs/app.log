@@ -1,0 +1,5 @@
+2025-08-20 10:54:49 | INFO     | step1 | Saved 21 ItemCodes -> C:\temp\Test Script\SapToImageshopItemSample\responses\item_changes_2025-08-19.json
+2025-08-20 10:54:55 | INFO     | step2 | Saved document lookups (21 entries) -> C:\temp\Test Script\SapToImageshopItemSample\responses\imageshop_results_2025-08-19.json
+2025-08-20 10:54:59 | INFO     | step3 | Saved category lookups (21 entries) -> C:\temp\Test Script\SapToImageshopItemSample\responses\imageshop_categories_2025-08-19.json
+2025-08-20 10:55:22 | INFO     | step4 | Saved SetCategories results (61 docs) -> C:\temp\Test Script\SapToImageshopItemSample\responses\imageshop_setcategories_2025-08-19.json
+2025-08-20 10:55:22 | INFO     | runner | Pipeline completed successfully for 2025-08-19
